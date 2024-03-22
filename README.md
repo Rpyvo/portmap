@@ -7,5 +7,8 @@ Nasıl kullanılır
 2 ```$ cd portmap```
 <br>
 3 ```portmap$ python portmap.py```
+# Uyarı!
+Ne bok yerseniz siz sorumlusunuz. bu toolu kullandıkta otomatik kabul etmis olursunuz
+
 
 
