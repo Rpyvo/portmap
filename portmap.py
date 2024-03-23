@@ -14,6 +14,12 @@ print("""
 SERVICES = {
     80: "HTTP",
     22: "SSH",
+    530: "RPC",
+    21: "FTP",
+    23: "Telenet",
+    53: "DNS",
+    25: "SMTP",
+    194: "IRC",
     443: "HTTPS",
     3389: "WSH"
 }
