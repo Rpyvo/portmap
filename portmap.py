@@ -8,7 +8,7 @@ print("""
  |  __/  | (_) | | |    | |_  | | | | | | | (_| | | |_) |
  |_|      \___/  |_|     \__| |_| |_| |_|  \__,_| | .__/ 
                                                   |_|
-                                                  by Reshy. Open source project
+                                                  by Rehman. Open source project
 """)
 # Hizmetleri tanımla
 SERVICES = {
