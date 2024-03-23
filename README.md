@@ -2,11 +2,11 @@
 Port scaner - Termux tool
 Nasıl kullanılır
 <br>
-1 ```~ $ git clone https://github.com/Rpyvo/portmap```
+1 <kbd>~ $ git clone https://github.com/Rpyvo/portmap</kbd>
 <br>
-2 ```~ $ cd portmap```
+2 <kbd>~ $ cd portmap</kbd>
 <br>
-3 ```~/portmap $ python portmap.py```
+3 <kbd>~/portmap $ python portmap.py</kbd>
 # Uyarı!
 Ne bok yerseniz siz sorumlusunuz. bu toolu kullandıkta otomatik kabul etmis olursunuz
 
